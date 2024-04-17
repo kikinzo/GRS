@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg185"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="remus.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview187"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.79285915"
+     inkscape:cx="379.00805"
+     inkscape:cy="662.79112"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs182">
+    <rect
+       x="358.19729"
+       y="736.57471"
+       width="422.52145"
+       height="160.17978"
+       id="rect887" />
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#999999;stroke-width:0.401902;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path993"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="227.58878"
+       sodipodi:cy="49.722469"
+       sodipodi:r1="186.8311"
+       sodipodi:r2="63.885284"
+       sodipodi:arg1="2.1835709"
+       sodipodi:arg2="2.8118894"
+       inkscape:rounded="0.092769864"
+       inkscape:randomized="0"
+       d="M 120.13484,202.56066 C 109.48988,195.07665 171.35741,82.717757 167.14445,70.406115 162.93149,58.094472 45.197683,7.1939504 49.025927,-5.2426943 52.854171,-17.679339 178.83195,6.4393695 189.23914,-1.3719016 199.64633,-9.1831729 211.67385,-136.8838 224.6848,-137.08606 c 13.01094,-0.20226 29.00196,127.062815 39.64692,134.5468262 10.64496,7.4840111 135.81219,-20.5387962 140.02515,-8.2271542 4.21296,12.3116417 -111.88182,66.847075 -115.71007,79.283719 -3.82824,12.436645 61.50183,122.818229 51.09464,130.629499 -10.40719,7.81127 -98.14873,-85.74905 -111.15967,-85.54679 -13.01095,0.20225 -97.80197,96.44463 -108.44693,88.96062 z"
+       inkscape:transform-center-x="0.5240688"
+       inkscape:transform-center-y="-13.007508"
+       transform="matrix(0.59076618,0,0,0.77527882,-28.695667,128.70616)"
+       inkscape:label="path993" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke-width:0.401902;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path410"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="97.442696"
+       sodipodi:cy="115.46292"
+       sodipodi:r1="40.926517"
+       sodipodi:r2="13.994469"
+       sodipodi:arg1="2.1882022"
+       sodipodi:arg2="2.8165207"
+       inkscape:rounded="0.092769864"
+       inkscape:randomized="0"
+       d="m 73.749438,148.83371 c -2.324227,-1.6502 11.342086,-26.20009 10.431711,-28.90128 -0.910376,-2.70119 -26.648785,-13.97058 -25.797576,-16.691 0.851208,-2.72041 28.422661,2.6907 30.710322,0.99017 2.28766,-1.70054 5.051889,-29.661654 7.902192,-29.692759 2.850304,-0.03111 6.224083,27.863029 8.548313,29.513229 2.32423,1.6502 29.77102,-4.361322 30.6814,-1.66013 0.91038,2.70118 -24.57597,14.5296 -25.42717,17.25001 -0.85121,2.72041 13.34761,26.96621 11.05995,28.66674 -2.28766,1.70053 -21.41287,-18.88324 -24.26317,-18.85213 -2.850303,0.0311 -21.521745,21.02735 -23.845972,19.37715 z"
+       inkscape:transform-center-x="0.1364289"
+       inkscape:transform-center-y="-3.7304549"
+       transform="translate(-54.060674,96.107865)" />
+    <path
+       style="fill:#000000;stroke-width:0.401902;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 138.15505,92.437078 c -0.66741,0.111237 -1.33483,0.22247 -2.00224,0.333706"
+       id="path755" />
+    <path
+       style="fill:#000000;stroke-width:0.401902;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 179.20112,44.716854 c -3.00337,4.338201 -54.39438,61.735956 -54.39438,61.735956 l 3.67078,2.66967 54.06068,-62.069673 z"
+       id="path823" />
+    <path
+       style="fill:#000000;stroke-width:0.401902;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 120.46854,112.45955 -45.717979,45.05056 2.669664,2.66966 45.050565,-45.38427 z"
+       id="path825" />
+    <path
+       style="fill:#000000;stroke-width:0.401902;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 151.50337,52.725842 47.720224,159.17865 52.058427,162.51573 154.50674,57.397752 Z"
+       id="path827" />
+    <path
+       style="fill:#000000;stroke-width:0.401902;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 181.53708,77.753931 64.739324,192.21573 68.076402,195.55281 185.54157,81.758426 Z"
+       id="path829" />
+    <path
+       style="fill:#000000;stroke-width:0.401902;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 195.5528,85.762919 c -2.66966,2.002248 -90.10112,81.091011 -90.10112,81.091011 l 4.00449,3.67078 89.76742,-80.089879 z"
+       id="path831" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.63115494,0,0,0.77346918,-218.15894,-382.02021)"
+       id="text885"
+       style="font-size:64px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';text-align:center;white-space:pre;shape-inside:url(#rect887);fill:#000000;stroke-width:1.519;stroke-linejoin:round;paint-order:stroke fill markers"><tspan
+         x="481.48926"
+         y="792.10547"
+         id="tspan1022">REMUS</tspan></text>
+  </g>
+</svg>
